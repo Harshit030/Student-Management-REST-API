@@ -1,6 +1,6 @@
 # Student Management REST API
 
-A RESTful backend application built using **Java 21, Spring Boot, Spring Data JPA, Hibernate, and MySQL** to manage student records through CRUD operations, with support for both soft deletion and permanent deletion.
+A RESTful backend application built using **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL** to manage student records through CRUD operations, with support for both soft deletion and permanent deletion.
 
 ## 🚀 Features
 
@@ -17,7 +17,7 @@ A RESTful backend application built using **Java 21, Spring Boot, Spring Data JP
 
 | Technology      | Purpose                                   |
 | --------------- | ----------------------------------------- |
-| Java 21         | Programming language                      |
+| Java            | Programming language                      |
 | Spring Boot     | Backend application framework             |
 | Spring Data JPA | Database access and repository operations |
 | Hibernate       | Object-relational mapping (ORM)           |
